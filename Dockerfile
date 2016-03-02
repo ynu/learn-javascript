@@ -9,7 +9,7 @@ WORKDIR /gitbook
 
 RUN npm install -g gitbook-cli
 RUN gitbook build
-RUN npm -g install light-server
+RUN npm -g install web-server-cli
 
 EXPOSE 4000
-CMD light-server -s /gitbook/_book
+CMD web-server -r /gitbook/_book -p 4000
