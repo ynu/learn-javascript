@@ -24,7 +24,20 @@
 - 运算符
     - “+” // 'hello,'+'world' === 'hello,world'，连接两个字符串
 - String 对象
-
+- ES6中：template string
+    当我们需要将一些变量和常量组合起来时，通常是这样的做法：
+    ```
+    var html = "There are <b>" + basket.count + "</b> " +
+    "items in your basket, " +
+    "<em>" + basket.onSale +
+    "</em> are on sale!"
+    ```
+    如果使用template string，可以这样做：
+    ```
+    var html = `There are <b>${basket.count}</b> items
+     in your basket, <em>${basket.onSale}</em>
+    are on sale!`
+    ```
 ## 模式匹配
 
 一些正则表达式示例：

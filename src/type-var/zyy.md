@@ -14,3 +14,42 @@ function checkscope() {
 }
 checkscope()    // => "local"
 ```
+
+## ES6 中的变化
+
+### 块作用域
+
+```
+var name = 'zach'
+
+while (true) {
+    var name = 'obama'
+    console.log(name)  //obama
+    break
+}
+
+console.log(name)  //obama
+```
+
+- 使用var 两次输出都是`obama`，这是因为ES5只有全局作用域和函数作用域，没有块级作用域
+- 使用`let`可以解决块作用域的问题
+
+```
+let name = 'zach'
+
+while (true) {
+    let name = 'obama'
+    console.log(name)  //obama
+    break
+}
+
+console.log(name)  //zach
+```
+
+- 另外一个var带来的不合理场景就是用来计数的循环变量泄露为全局变量
+
+
+
+### 深入阅读
+
+- [30分钟掌握ES6/ES2015核心内容（上）](https://segmentfault.com/a/1190000004365693#articleHeader1)
