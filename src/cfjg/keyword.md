@@ -34,7 +34,7 @@
     default for null  try
     ```
 
-- JavaScript同样保留了一些关键字，这些关键字在当前的语言版本中并没有使用，但在未来版本中可能会用到
+- JavaScript同样保留了一些关键字，这些关键字在当前的语言版本（ES5）中并没有使用，但在未来版本中可能会用到
 
     ```
     class  const  enum  export  extends  import  super
@@ -48,4 +48,14 @@
     Date  eval  JSON  parseInt  TypeError
     decodeURI  EvalError  Math  RangeError  undefined
     decodeURIComponent Function  NaN  ReferenceError URIError
+    ```
+
+- ES6中已经用到的关键字包括：
+    ```
+    class const export extends import super let yield
+    ```
+
+- ES7中将被用到的关键字包括：
+    ```
+    async await
     ```

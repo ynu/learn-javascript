@@ -1,15 +1,15 @@
 # Learn Javascript
 
-Learn JavaScript in munites.
+Learn JavaScript in minutes.
 
 - [JavaScript概述](src/introduction/introduction.md)
 - [词法结构](src/cfjg/README.md)
-   - [字符集](src/charset.md)
-   - [注释](src/comment.md)
-   - [直接量](src/literal.md)
-   - [标识符和保留字](src/keyword.md)
-   - [可选的分号](src/kxdfh.md)
-- 类型、值和变量
+   - [字符集](src/cfjg/charset.md)
+   - [注释](src/cfjg/comment.md)
+   - [直接量](src/cfjg/literal.md)
+   - [标识符和保留字](src/cfjg/keyword.md)
+   - [可选的分号](src/cfjg/kxdfh.md)
+- [类型、值和变量](src/type-var/README.md)
    - [数字](src/type-var/number.md)
    - [文本](src/type-var/string.md)
    - [布尔值](src/type-var/boolean.md)
