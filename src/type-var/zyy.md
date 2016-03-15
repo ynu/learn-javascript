@@ -53,3 +53,7 @@ console.log(name)  //zach
 ### 深入阅读
 
 - [30分钟掌握ES6/ES2015核心内容（上）](https://segmentfault.com/a/1190000004365693#articleHeader1)
+
+
+## 练习
+- javascripting: Scope

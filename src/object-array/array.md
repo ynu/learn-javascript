@@ -48,3 +48,10 @@ for(var i = 0;i < nums.length; i++) {
 `a[0][1]`
 
 ## 数组的方法
+
+## 练习
+
+- javascripting: Arrays
+- javascripting: Array Filtering
+- javascripting: Accessing Array Values
+- javascripting: Looping Through Arrays

@@ -33,3 +33,6 @@ for(initialize; test; increment)
         console.log(i);
     }
     ```
+
+## 练习
+- javascripting: For Loop

@@ -51,3 +51,10 @@
 - 删除属性 `delete book.author`
 
 ## 通用的Object属性和方法
+
+
+
+## 练习
+
+- javascripting: Objects
+- javascripting: Object Properties

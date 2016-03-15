@@ -54,3 +54,8 @@ console.log(f(4));
 - 使用`[]`运算符获取具体位置的参数的值
 
 - 使用`callee`属性获取正在执行的函数的引用
+
+## 练习
+
+- javascripting: Functions
+- javascripting: Function Arguments
