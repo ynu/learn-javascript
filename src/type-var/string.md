@@ -44,3 +44,8 @@
 - /^HTML/ //匹配以HTML开始的字符串
 - /[1-9][0-9]*/ // 匹配一个非零数字，后面是任意个数字
 - /\bjavascript\b/i // 匹配单词"javascript"，忽略大小写
+
+## 练习
+- javascripting: Strings
+- javascripting: String Length
+- javascripting: Revising String

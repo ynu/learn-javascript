@@ -25,3 +25,6 @@
     - infinity // 1/0 === infinity
     - NaN //  表示非数字的值，x != x，当且仅当x为NaN时，表达式为true
 
+## 练习
+- javascripting: Numbers
+- javascripting: Rounding Numbers

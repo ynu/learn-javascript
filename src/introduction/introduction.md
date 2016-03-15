@@ -34,5 +34,8 @@
 * [内置类库及其他组件包]()
 * [ES6]()
 
+## 练习
+- javascripting: Introduction
+
 ## 参考资料
 - [MDN Web技术资料：JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)

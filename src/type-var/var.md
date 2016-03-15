@@ -32,3 +32,7 @@
 const PI = Math.PI
 PI = 23 //Module build failed: SyntaxError: /es6/app.js: "PI" is read-only
 ```
+
+
+## 练习
+- javascripting: Variables

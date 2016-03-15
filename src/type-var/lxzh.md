@@ -17,3 +17,6 @@ n + " objects"  // => "NaN objects": NaN转换为字符串"NaN"
 
 - 使用对象包装
 - 使用类型转换函数
+
+## 练习
+- javascripting: Number to String
