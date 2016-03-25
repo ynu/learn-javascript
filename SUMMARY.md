@@ -33,7 +33,7 @@ Learn JavaScript in minutes.
    - do/while 语句
    - 标签语句
    - var 语句
-   - [function 语句](src/statements/function.md)
+   - function 语句
    - 异常语句
    - with 语句
 - [对象和数组](src/object-array/README.md)
